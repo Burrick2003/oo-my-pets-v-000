@@ -67,8 +67,8 @@ class Owner
         array.each do |pet|
           pet.mood = "nervous"
         end
-        #array = []
-        array.clear
+        array = []
+        #array.clear
       end
   end
   def walk_dogs
