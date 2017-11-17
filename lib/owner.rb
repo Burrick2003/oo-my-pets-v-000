@@ -68,7 +68,6 @@ class Owner
           pet.mood = "nervous"
         end
         #array = []
-        #array.clear
       end
       @pets = {fishes: [], cats: [], dogs: []}
   end
